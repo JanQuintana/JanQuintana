@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-Hi, welcome to my Github profile. My name is Jan Quintana I'm a junior front end developer, 20 years old and I live in [Barcelona - Spain](https://goo.gl/maps/tigN8UpBEjKVD31L8). Here you are going to find everything related to what I do and also a bit of my hobbies. All the projects are made on my own and knitted with so much ❤️.  
+Hi, welcome to my Github profile. My name is Jan Quintana I'm a junior front end developer, 20 years old and I live in [Barcelona - Spain](https://goo.gl/maps/tigN8UpBEjKVD31L8). Here you are going to find everything related to what I do and also a bit of my hobbies. All the projects are made on my own and knitted with so much ❤️. You can contact me via jquintana.dev@gmail.com
   
 
 <br/>  
