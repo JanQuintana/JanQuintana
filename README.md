@@ -1,4 +1,4 @@
-## Hey 👋, I'm Jan Quintana!  
+## Howdy 👋, I'm Jan Quintana!  
   
 
 <a href="https://github.com/JanQuintana" target="_blank">
