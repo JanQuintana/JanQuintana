@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Jan Quintana!  
   
 
-<a href="https://github.com/janquintana" target="_blank">
+<a href="https://github.com/JanQuintana" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/janquintana" target="_blank">
@@ -76,5 +76,4 @@ Hi, welcome to my Github profile. My name is Jan Quintana I'm a junior front end
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="25" />  
 </div>  
